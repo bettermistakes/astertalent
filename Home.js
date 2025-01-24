@@ -93,7 +93,7 @@ function slider1() {
         },
         "--motion-translateX": "0%", // Final position
         opacity: 1, // Full visibility
-        duration: 0.7, // Animation duration
+        duration: 0.5, // Animation duration
         ease: "easeOutQuad", // Smooth easing
         stagger: {
           each: 0.15, // Fluid delay between items
