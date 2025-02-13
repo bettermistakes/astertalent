@@ -4,8 +4,8 @@ function slider1() {
     for (let i = 0, splideLength = splides.length; i < splideLength; i++) {
       new Splide(splides[i], {
         // Desktop on down
-        perPage: 2.5,
-        perMove: 2.5,
+        perPage: 2,
+        perMove: 2,
         focus: '0',
         type: 'slider',
         gap: '72rem',
