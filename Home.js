@@ -5,7 +5,7 @@ function slider1() {
       new Splide(splides[i], {
         // Desktop on down
         perPage: 3,
-        perMove: 3,
+        perMove: 2,
         focus: '0',
         type: 'slider',
         gap: '72rem',
