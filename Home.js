@@ -113,7 +113,7 @@ function slider1() {
         },
         {
           opacity: 1, // Final opacity (visible)
-          duration: 0.7, // Longer duration for smoother effect
+          duration: 0.4, // Longer duration for smoother effect
           ease: "power1.inOut", // Smooth transition
           stagger: {
             each: 0.1, // Progressive delay between items
