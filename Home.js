@@ -86,7 +86,7 @@ function slider1() {
       gsap.to(fadeStaggerElem.querySelectorAll("[animation='fade-item-left']"), {
         scrollTrigger: {
           trigger: fadeStaggerElem, // Trigger container
-          start: "top bottom-=150", // Trigger before element enters view
+          start: "top bottom-=250", // Trigger before element enters view
           end: "top center", // End animation when element reaches center
           once: true, // Animate once
           markers: false, // Debug markers off
