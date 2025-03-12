@@ -120,7 +120,7 @@ function slider1() {
           },
           scrollTrigger: {
             trigger: fadeFlashElem, // Trigger based on container
-            start: "top bottom-=10", // Slightly before visibility
+            start: "top bottom+=300", // Slightly before visibility
             markers: false, // Debug markers off
           },
         }
